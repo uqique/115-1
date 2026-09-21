@@ -38,5 +38,6 @@ This is a book.
 
 ![NKUST](nkust.png "高科大")
 
-|:------------|:-----------:|--------:|
-|test|測試|$3333|
+| Left-Aligned | Center Aligned | Right Aligned |
+| :------------ | :-----------: | --------: |
+| test | 測試 | $3333 |
