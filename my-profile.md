@@ -12,7 +12,7 @@
 
 >  求完美，只求不要重做。
 
-喜歡的網站:[YouTube](https://www.youtube.com/)
+喜歡的網站：[YouTube](https://www.youtube.com/)
 
 ![YouTube](yt.png)
 
